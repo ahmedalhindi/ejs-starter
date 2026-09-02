@@ -45,6 +45,3 @@ ejs-starter/
 
 Since there is no framework or bundler, you can add React, Vue, or a bundler (Vite, webpack) only when you need it. For small apps, vanilla HTML/CSS/JS keeps startup fast and the toolchain invisible.
 
-## License
-
-MIT
